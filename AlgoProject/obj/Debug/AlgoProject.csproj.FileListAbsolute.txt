@@ -1,0 +1,9 @@
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\bin\Debug\AlgoProject.exe.config
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\bin\Debug\AlgoProject.exe
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\bin\Debug\AlgoProject.pdb
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.Form1.resources
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.Properties.Resources.resources
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.csproj.GenerateResource.Cache
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.exe
+c:\users\sherifmounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.pdb
+C:\Users\SherifMounir\documents\visual studio 2012\Projects\AlgoProject\AlgoProject\obj\Debug\AlgoProject.csprojResolveAssemblyReference.cache
